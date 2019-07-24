@@ -1,0 +1,89 @@
+body{
+  background-color: #BFD7EA;
+  font-family: arial, sans-serif;
+  color: #FF3C38;
+  font-size: 16;
+}
+
+h1{
+  font-family: arial, sans-serif;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+p{
+  padding-bottom: 15px;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+  text-align: center;
+}
+
+h2, h3{
+  font-family: arial, sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+img{
+  border-radius: 50%;
+  width: 200;
+}
+
+i{
+  font-size: 40px;
+  display: inline-block;
+  color: blue;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+}
+
+ul{
+  list-style: none;
+  display: inline-block;
+  text-align: center;
+  padding: 0px;
+}
+
+li{
+  display: inline-block;
+  text-align: center;
+}
+
+.container {
+width: 700px;
+margin: 0 auto;
+text-align: center;
+}
+
+.banner{
+  text-align: center;
+  background-color: white;
+  border-radius: 5px;
+  padding: 30px;
+  margin-top: 30px;
+}
+
+.redbtn{
+  background-color: #FF3C38;
+  border-radius: 10px;
+  width: 180px;
+  height: 45px;
+  margin: 0 auto;
+  margin-top: 10px;
+  padding: 12px 20px;
+}
+
+.socialmedia{
+  text-align: center;
+  background-color: white;
+  border-radius: 5px;
+  padding: 30px;
+  margin-top: 30px;
+  text-align: center;
+}
+
+a:hover{
+  opacity: 0.5;
